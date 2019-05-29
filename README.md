@@ -15,4 +15,4 @@
 * *modulo (NumComplejo1 numComplejo)*
 
 #### Imagen ejecución de ejemplo del programa
-[img ejecutar](https://imgur.com/SsO4b26)
+[img ejecutar](https://imgur.com/SsO4b26.png)
