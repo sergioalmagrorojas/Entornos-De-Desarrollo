@@ -13,3 +13,6 @@
 * *multiplicarComplejos (NumComplejo1 c1, NumComplejo1 c2)*
 * *dividirComplejos (NumComplejo1 c1, NumComplejo1 c2)*
 * *modulo (NumComplejo1 numComplejo)*
+
+#### Imagen ejecución de ejemplo del programa
+![ejemplo ejecutar]https://imgur.com/a/jfytZwF
