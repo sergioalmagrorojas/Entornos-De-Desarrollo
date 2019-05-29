@@ -1,5 +1,5 @@
 # Entornos De Desarrollo
-#### *Programa que realiza diferentes operaciones de números complejos*
+#### *Programa que realiza diferentes operaciones de números complejos ; tales como la suma , la multiplicación , la división y el módulo de 2 números complejos(haciendo la raíz cuadrada de la suma de los dos elevados al cuadrado)*
 
 ###### **Lista de Getters y Setters:**
 * *getpReal*
